@@ -1,5 +1,5 @@
 # Dentist_database
-## Dentist database by mysql.
+## Dentist database by sql.
 
 Create a database for a dentist clinic which contains dentists and each of them has one or 
 more nurse for helping him, dentist also deals with dental lab for testing the samples .
